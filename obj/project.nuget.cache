@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IxTSpUNE+P4UBD4PF+5++0b1McFegtEu/HbHmmx2vTXm4CeV0RFXipdkKwPjyacrWE3jsWicGvGuHNe9bHPB3A==",
+  "dgSpecHash": "gweLj8mGhtH/fzoiT+rKiTMkKtmiydGHjGkrf1Ro/YDS2WT1IYqrpQEa+Xz07/KXAifUmyqMQZGsDUDJp4VNNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ernesto\\Downloads\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+  "projectFilePath": "C:\\Users\\Ernesto\\Pictures\\CRUD\\ProyectoFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ernesto\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Ernesto\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

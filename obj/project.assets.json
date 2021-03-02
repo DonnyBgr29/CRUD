@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ernesto\\Downloads\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+      "projectUniqueName": "C:\\Users\\Ernesto\\Pictures\\CRUD\\ProyectoFinal.csproj",
       "projectName": "ProyectoFinal",
-      "projectPath": "C:\\Users\\Ernesto\\Downloads\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+      "projectPath": "C:\\Users\\Ernesto\\Pictures\\CRUD\\ProyectoFinal.csproj",
       "packagesPath": "C:\\Users\\Ernesto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ernesto\\Downloads\\ProyectoFinal\\ProyectoFinal\\obj\\",
+      "outputPath": "C:\\Users\\Ernesto\\Pictures\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ernesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
